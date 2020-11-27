@@ -9,6 +9,8 @@ I'm a junior front-end developer and soon-to-be a bachelor of Web Development. O
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
+<br>
+
 ## What I'm up to currently?
 - 🔭 I’m currently working on **my bachelor thesis on data modeling in Cloud Firestore to assure better scalability of the project**
 - 🌱 I’m currently diving into **the world of Ruby and Ruby on Rails (my sister made me do it)**
