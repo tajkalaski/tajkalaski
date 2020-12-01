@@ -5,7 +5,7 @@ I'm a junior front-end developer and soon-to-be a bachelor of Web Development. O
 <a href="https://www.linkedin.com/in/tysondev/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://tajkalaski.github.io/tajsonik-portfolio" disabled>
+<a href="https://tajsonik.netlify.app/">
   <img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 
