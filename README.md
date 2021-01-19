@@ -13,7 +13,7 @@ I'm a junior developer primarly focusing on front-end and ~~soon-to-be~~ **recen
 
 ## What I'm up to currently?
 - 🔭 I’m currently working on **a chart generator with D3.js and React**
-- 🌱 I’m currently diving into **the world of React (even deeper) and Ruby and Ruby on Rails (my sister made me do it)**
+- 🌱 I’m currently diving into **the world of React (even deeper) and Ruby on Rails (my sister made me do it)**
 - 😄 I am: **:coffee: overcaffeinated, 👩🏻‍💻 looking for a challenge, 💪 not giving up on any problem**
 - ⚡ Fun fact: **I will probably talk to you about my high content caffeine coffee and I will definitely introduce you to all of my cats**🐾
 <hr>
