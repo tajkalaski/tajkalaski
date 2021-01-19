@@ -1,5 +1,5 @@
 # Hi, I'm Tyson 🐱‍💻
-I'm a junior front-end developer and soon-to-be a bachelor of Web Development. On everyday basis I like to overdrink my coffee while playing with different technologies.
+I'm a junior developer primarly focusing on front-end and ~~soon-to-be~~ **recently graduated** bachelor in Web Development. On everyday basis I like to overdrink my coffee while playing with different technologies.
 
 ## Find me online
 <a href="https://www.linkedin.com/in/tysondev/">
@@ -12,8 +12,8 @@ I'm a junior front-end developer and soon-to-be a bachelor of Web Development. O
 <br>
 
 ## What I'm up to currently?
-- 🔭 I’m currently working on **my bachelor thesis on data modeling in Cloud Firestore to assure better scalability of the project**
-- 🌱 I’m currently diving into **the world of Ruby and Ruby on Rails (my sister made me do it)**
+- 🔭 I’m currently working on **a chart generator with D3.js and React**
+- 🌱 I’m currently diving into **the world of React (even deeper) and Ruby and Ruby on Rails (my sister made me do it)**
 - 😄 I am: **:coffee: overcaffeinated, 👩🏻‍💻 looking for a challenge, 💪 not giving up on any problem**
 - ⚡ Fun fact: **I will probably talk to you about my high content caffeine coffee and I will definitely introduce you to all of my cats**🐾
 <hr>
